@@ -1,0 +1,22 @@
+{
+  "uuid": "ac0b07a5-6853-432d-8cf3-ff565005e2c0",
+  "shortName": "environator",
+  "longName": "environator",
+  "companyName": "izen.me",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+   "media": [
+              {
+              "name": "APP_ICON",
+              "type": "png",
+              "file": "images/appicon.png",
+              "menuIcon": true
+              }
+    ]
+  }
+}
